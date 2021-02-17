@@ -1,4 +1,8 @@
 #"Snake Water Gun."
+
+
+
+
 This is a two-player game where each player chooses one object. 
 As we know, there are three objects, snake, water, and gun. So, the result will be
 Snake vs. Water: Snake drinks the water hence snake wins.
